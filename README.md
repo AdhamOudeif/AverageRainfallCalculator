@@ -1,5 +1,5 @@
 # AverageRainfallCalculator
-The program reads in current and previous rainfall for each month of the year. It then produces a graph that shows the average rainfall per year. 
+Using Object Oriented Programming, this program uses Arrays and IO streams to produce a graph of the average rainfall in a year.
 # What I learned
 * Object Oriented Programming
 * Arrays in Functions
